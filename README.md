@@ -72,27 +72,27 @@
 #
 ## Empecé a manipular el DataFrame hasta quedarme con un filtro de productos con mayor valor total en los años de 2018 a 2022:
 
-<a href="https://github.com/z3r0n1/project_stats/blob/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202018.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2018</a>
+<a href="https://github.com/z3r0n1/project_stats/blob/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202018.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2018 - Descarga el gráfico interactivo</a>
 <picture>
  <img src="./img/graphs/png/Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2018.png">
 </picture>
 
-<a href="https://github.com/z3r0n1/project_stats/blob/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202019.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2019</a>
+<a href="https://github.com/z3r0n1/project_stats/blob/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202019.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2019 - Descarga el gráfico interactivo</a>
 <picture>
  <img src="./img/graphs/png/Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2019.png">
 </picture>
 
-<a href="https://github.com/z3r0n1/project_stats/blob/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202020.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2020</a>
+<a href="https://github.com/z3r0n1/project_stats/blob/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202020.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2020 - Descarga el gráfico interactivo</a>
 <picture>
  <img src="./img/graphs/png/Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2020.png">
 </picture>
 
-<a href="https://github.com/z3r0n1/project_stats/blob/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202021.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2021</a>
+<a href="https://github.com/z3r0n1/project_stats/blob/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202021.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2021 - Descarga el gráfico interactivo</a>
 <picture>
  <img src="./img/graphs/png/Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2021.png">
 </picture>
 
-<a href="https://github.com/z3r0n1/project_stats/blob/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202022.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2022</a>
+<a href="https://github.com/z3r0n1/project_stats/blob/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202022.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2022 - Descarga el gráfico interactivo</a>
 <picture>
  <img src="./img/graphs/png/Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2022.png">
 </picture>
