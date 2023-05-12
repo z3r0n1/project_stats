@@ -72,21 +72,11 @@
 #
 ## Empecé a manipular el DataFrame hasta quedarme con un filtro de productos con mayor valor total en los años de 2018 a 2022:
 
-<picture>
- <img src="./img/graphs/Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2018.html">
-</picture>
-<picture>
- <img src="./img/graphs/Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2019.html">
-</picture>
-<picture>
- <img src="./img/graphs/Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2020.html">
-</picture>
-<picture>
- <img src="./img/graphs/Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2021.html">
-</picture>
-<picture>
- <img src="./img/graphs/Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2022.html">
-</picture>
+<a href="https://raw.githubusercontent.com/z3r0n1/project_stats/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202018.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2018</a>
+<a href="https://raw.githubusercontent.com/z3r0n1/project_stats/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202019.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2019</a>
+<a href="https://raw.githubusercontent.com/z3r0n1/project_stats/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202020.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2020</a>
+<a href="https://raw.githubusercontent.com/z3r0n1/project_stats/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202021.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2021</a>
+<a href="https://raw.githubusercontent.com/z3r0n1/project_stats/main/img/graphs/html/Evolución%20de%20cambio%20de%20precio%20de%20los%2020%20productos%20con%20mayor%20valor%20total%20durante%20el%20año%202022.html">Evolución de cambio de precio de los 20 productos con mayor valor total durante el año 2022</a>
 
 ## Tras esto quise encontrar los productos comunes en todos estos años, así que agrupé los productos por cada año en listas que compararía hasta quedarme con 16 productos que parecen ser los que tienen mayor valor total en cada uno de los años.
 
@@ -104,9 +94,7 @@
 
 ## Creé un gráfico de líneas (lineplot) donde se viera la evolución de cambio de precio de los 16 productos en los 3 períodos establecidos.
 
-<picture>
- <img src="./img/graphs/html/Evolución de la media de los cambios de precio por época.html">
-</picture>
+<a href="https://raw.githubusercontent.com/z3r0n1/project_stats/main/img/graphs/html/Evolución%20de%20la%20media%20de%20los%20cambios%20de%20precio%20por%20época.html">Evolución de la media de los cambios de precio por época</a>
 
 ## También un gráfico de cajas (boxplot) donde se viera fácilmente la agrupación de los datos en cada período.
 
