@@ -114,7 +114,10 @@
 
 ## Creé un gráfico de líneas (lineplot) donde se viera la evolución de cambio de precio de los 16 productos en los 3 períodos establecidos.
 
-<a href="https://raw.githubusercontent.com/z3r0n1/project_stats/main/img/graphs/html/Evolución%20de%20la%20media%20de%20los%20cambios%20de%20precio%20por%20época.html">Evolución de la media de los cambios de precio por época</a>
+<a href="https://github.com/z3r0n1/project_stats/blob/main/img/graphs/html/Evolución%20de%20la%20media%20de%20los%20cambios%20de%20precio%20por%20época.html">Evolución de la media de los cambios de precio por época - Descarga el gráfico interactivo</a>
+<picture>
+ <img src="./img/graphs/png/Evolución de la media de los cambios de precio por época.png">
+</picture>
 
 ## También un gráfico de cajas (boxplot) donde se viera fácilmente la agrupación de los datos en cada período.
 
