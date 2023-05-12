@@ -24,10 +24,11 @@
 ![EVE Online](https://cdn1.epicgames.com/offer/de554cff12704db4a900032bbd194d7e/Eve-nov-update-wide_2560x1440-88d1b30e638dbadd242a41097974671f_2560x1440-88d1b30e638dbadd242a41097974671f)
 * ## ***EVE Online***
     ## es un videouego **MMORPG** *'sandbox expacial'*, con 20 años de antigüedad actualmente, desarrollado por la empresa **CCP Games** (1997, Reykjavik, Islandia).
-    #
+![EVE Fanfest](https://massivelyop.com/wp-content/uploads/2022/03/eve-online-stuffed-like-highly-transmissible-sardines.jpg)
+![EVE Fanfest](https://images.ctfassets.net/7lhcm73ukv5p/1eOlQsSO80R5rZz6VtWDxk/85bae523d10630b049508513f8d07f62/fanfest2017_24_.jpg?w=1000)
 * ## **CCP Games** celebra anualmente el evento ***EVE FANFEST***.
     ## Si quieres tu entrada para 2023 (REYKJAVIK 21-23 SEPT) actualmente cuesta $190.00.
-    #
+![EVE CSM](https://images.ctfassets.net/7lhcm73ukv5p/66Jl9FGS9auYY2g04MAwIY/ebcfc70477dffdc954a20ed65ad4507e/csmelectionresults2.png)
 * ## ***THE COUNCIL OF STELLAR MANAGEMENT (CSM)***
     ## Es un grupo de 10 jugadores, elegidos democráticamente por la comunidad, que participa activamente en el continuo desarrollo de EVE Online teniendo comunicación directa con CCP.
     #
@@ -44,7 +45,7 @@
     #
     #
     ## Más información: https://community.eveonline.com/community/csm/
-#
+![EVE A&O](https://images.ctfassets.net/7lhcm73ukv5p/1FUcdhYN3DqYLEssXU72zH/1703a41784de1c3ef5509861f6399472/eve-academy-alpha-omega-card.jpg)
 * ## ***Alpha y Omega***
     ## EVE Online es gratuito (F2P).
     ## En el juego eres un clon inmortal ya que la humanidad ha evolucionado hasta la época de singularidad tecnológica y es capaz de traspasar su consciencia a otro cuerpo.
@@ -54,7 +55,7 @@
     #
     ## Esta es la premisa sobre la cual se basa todo el cálculo de pérdidas en los conflictos PvP (Player vs Player) en EVE Online, ya que se puede calcular el coste de las pérdidas equivalente en dinero real.
     #
-    #
+![EVE The Massacre at M2-XFE](https://images.ctfassets.net/7lhcm73ukv5p/1mB88TM2gOMjDkGFOMHDTn/781df650a82923c1476e42800425810b/EN_Screen_3840x2160.png?w=850&fm=jpg&fl=progressive&q=75)
 * ## ***Volviendo a la hipótesis planteada:***
     ## https://www.eveonline.com/es/news/view/the-massacre-of-m2-xfe
     ## "The Massacre at M2-XFE (December 31, 2020)"
@@ -67,6 +68,7 @@
     #
     ## Es por este motivo que me planteo si estos sucesos tienen un impacto directo en el mercado del juego.
     #
+![EVE The Massacre at M2-XFE Titans](https://live.staticflickr.com/65535/50783829256_2679000dae_k.jpg)
 ----
 #
 #
