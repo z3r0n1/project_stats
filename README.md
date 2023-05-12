@@ -9,8 +9,9 @@
 * ## ***data***:
     ### Contiene el archivo .csv resultante de haber subido los datos del DataFrame a base de datos SQL en cierto punto del proyecto y haberlos extraído desde SQL a ruta local. 
 * ## ***img***:
-    ### Contiene la carpeta '*graphs*', que a su vez contiene '*html*' y '*png*'.
-    ### Aquí se guardan los distintos gráficos que se han generado en la exploración y análisis de los datos.
+    * ### Contiene la carpeta '*graphs*', que a su vez contiene '*html*' y '*png*'.
+      ### Aquí se guardan los distintos gráficos que se han generado en la exploración y análisis de los datos.
+    * ### Contiene '*other*' donde hay otros recursos capturados con motivo de presentación de proyecto.
 * ## ***Monthly Economy Report***:
     ### Contiene los archivos *.zip* resultado de hacer scraping para obtener los datos necesarios para el análisis. Dentro también está la carpeta '*descomprimidos*' que contiene los archivos descomprimidos.
     ### Ya que en este proyecto sólo se utiliza un archivo en concreto, esta carpeta tan sólo va a contener el *.zip* contenedor de ese archivo y el archivo en cuestión dentro de '*descomprimidos*'.
@@ -20,6 +21,7 @@
 ---- 
 # 
 # **CONTEXTO:**
+![EVE Online](https://cdn1.epicgames.com/offer/de554cff12704db4a900032bbd194d7e/Eve-nov-update-wide_2560x1440-88d1b30e638dbadd242a41097974671f_2560x1440-88d1b30e638dbadd242a41097974671f)
 * ## ***EVE Online***
     ## es un videouego **MMORPG** *'sandbox expacial'*, con 20 años de antigüedad actualmente, desarrollado por la empresa **CCP Games** (1997, Reykjavik, Islandia).
     #
