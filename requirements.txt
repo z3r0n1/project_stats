@@ -1,0 +1,11 @@
+os
+zipfile
+requests
+BeautifulSoup
+selenium
+pandas
+sqlalchemy
+getpass
+seaborn
+matplotlib
+plotly
