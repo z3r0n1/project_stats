@@ -38,7 +38,9 @@
   ## Es un grupo de 10 jugadores, elegidos democráticamente por la comunidad, que participa activamente en el continuo desarrollo de EVE Online teniendo comunicación directa con CCP.
     #
     > The role of a CSM member is to represent the players in the ongoing development of EVE Online by providing analysis, sharing suggestions, and giving feedback based on the ongoing community discussions and concerns to CCP. As an elected representative, a CSM member will have clear communication paths with CCP and a chance to influence the development of EVE Online many times during their term.  
+  
     > The CSM will have regular online meetings with the Community Team and members of the EVE Online game development, access to selected internal sites, and a direct connection to various teams across the organization.  
+  
     > The CSM will be asked to attend a one 5-day on-site summit in person in Iceland where they will:  
     > * Take part in high-intensity work sessions, playtests and brainstormings with the EVE Online teams.  
     > * Share knowledge by delivering insightful presentations on topics that can benefit the EVE Online game development.  
