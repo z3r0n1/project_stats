@@ -3,7 +3,7 @@
 ----
 # **HIPÓTESIS**:
 > "The Massacre at M2-XFE (December 31, 2020)"  
->       tuvo un impacto directo en el mercado de EVE Online.
+> tuvo un impacto directo en el mercado de EVE Online.
 ----
 # **ESTRUCTURA DEL REPOSITORIO:**
 * ## ***data***:
@@ -18,11 +18,9 @@
         Ya que en este proyecto sólo se utiliza un archivo en concreto, esta carpeta tan sólo va a contener el *.zip* contenedor de ese archivo y el archivo en cuestión dentro de '*descomprimidos*'.
 * ## ***src***:
     - Contiene el archivo '*main.ipynb*' en el cuál se hace todo el proyecto, ya que no ha habido tiempo de modularización antes de la fecha de presentación.
-#
 ---- 
-# 
-# **CONTEXTO:**
-
+# **CONTEXTO:**  
+  
 * ## ***EVE Online***
 ![EVE Online](https://cdn1.epicgames.com/offer/de554cff12704db4a900032bbd194d7e/Eve-nov-update-wide_2560x1440-88d1b30e638dbadd242a41097974671f_2560x1440-88d1b30e638dbadd242a41097974671f)
   ## es un videouego **MMORPG** *'sandbox expacial'*, con 20 años de antigüedad actualmente, desarrollado por la empresa **CCP Games** (1997, Reykjavik, Islandia).
