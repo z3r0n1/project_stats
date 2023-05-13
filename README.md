@@ -1,6 +1,6 @@
 # **PROYECTO**
 ## *ESTADÍSTICA SOBRE EL MERCADO DE 'EVE ONLINE' EN ÉPOCA DE CONFLICTO PVP*
-  
+==  
   
 # **HIPÓTESIS**:
 ## *"The Massacre at M2-XFE (December 31, 2020)" tuvo un impacto directo en el mercado de EVE Online.*
