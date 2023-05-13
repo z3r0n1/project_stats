@@ -53,7 +53,7 @@
 ![EVE A&O](https://images.ctfassets.net/7lhcm73ukv5p/1FUcdhYN3DqYLEssXU72zH/1703a41784de1c3ef5509861f6399472/eve-academy-alpha-omega-card.jpg)
   ## EVE Online es gratuito (F2P).
   ## En el juego eres un clon inmortal ya que la humanidad ha evolucionado hasta la época de singularidad tecnológica y es capaz de traspasar su consciencia a otro cuerpo.
-  ## Si juegas gratis serás lo llamado "Clon Alpha" (Α), pero puedes comprar PLEX (moneda de pago) y convertirte en lo que llaman "Clon Omega" (Ω).
+  ## Si juegas gratis serás lo llamado "Clon Alpha" (α), pero puedes comprar PLEX (moneda de pago) y convertirte en lo que llaman "Clon Omega" (Ω).
    #
   ## El PLEX puede ser comprado con dinero real o puede ser comprado con dinero del juego ISK.
    #
