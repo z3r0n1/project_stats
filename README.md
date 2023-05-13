@@ -65,7 +65,7 @@
 
   * #### Hay que tener en cuenta que en el primer conflicto la batalla duró 21 horas, con un pico de jugadores de 2670, mientras que este conflicto tan sólo duró 14 horas, con un pico de jugadores de 5158.  
   
-  * #### Es por este motivo que me planteo si estos sucesos tienen un impacto directo en el mercado del juego.  
+#### Es por este motivo que me planteo si estos sucesos tienen un impacto directo en el mercado del juego.  
   
 ![EVE The Massacre at M2-XFE Titans](https://live.staticflickr.com/65535/50783829256_2679000dae_k.jpg)
 ----
