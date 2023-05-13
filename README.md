@@ -24,16 +24,16 @@
 
 * ## ***EVE Online***
 ![EVE Online](https://cdn1.epicgames.com/offer/de554cff12704db4a900032bbd194d7e/Eve-nov-update-wide_2560x1440-88d1b30e638dbadd242a41097974671f_2560x1440-88d1b30e638dbadd242a41097974671f)
-    ## es un videouego **MMORPG** *'sandbox expacial'*, con 20 años de antigüedad actualmente, desarrollado por la empresa **CCP Games** (1997, Reykjavik, Islandia).
+  ## es un videouego **MMORPG** *'sandbox expacial'*, con 20 años de antigüedad actualmente, desarrollado por la empresa **CCP Games** (1997, Reykjavik, Islandia).
 
 * ## **CCP Games** celebra anualmente el evento ***EVE FANFEST***.
 ![EVE Fanfest](https://massivelyop.com/wp-content/uploads/2022/03/eve-online-stuffed-like-highly-transmissible-sardines.jpg)
 ![EVE Fanfest](https://images.ctfassets.net/7lhcm73ukv5p/1eOlQsSO80R5rZz6VtWDxk/85bae523d10630b049508513f8d07f62/fanfest2017_24_.jpg?w=1000)
-    ## Si quieres tu entrada para 2023 (REYKJAVIK 21-23 SEPT) actualmente cuesta $190.00.
+  ## Si quieres tu entrada para 2023 (REYKJAVIK 21-23 SEPT) actualmente cuesta $190.00.
 
 * ## ***THE COUNCIL OF STELLAR MANAGEMENT (CSM)***
     ![EVE CSM](https://images.ctfassets.net/7lhcm73ukv5p/66Jl9FGS9auYY2g04MAwIY/ebcfc70477dffdc954a20ed65ad4507e/csmelectionresults2.png)
-    ## Es un grupo de 10 jugadores, elegidos democráticamente por la comunidad, que participa activamente en el continuo desarrollo de EVE Online teniendo comunicación directa con CCP.
+  ## Es un grupo de 10 jugadores, elegidos democráticamente por la comunidad, que participa activamente en el continuo desarrollo de EVE Online teniendo comunicación directa con CCP.
     #
     ## *"The role of a CSM member is to represent the players in the ongoing development of EVE Online by providing analysis, sharing suggestions, and giving feedback based on the ongoing community discussions and concerns to CCP. As an elected representative, a CSM member will have clear communication paths with CCP and a chance to influence the development of EVE Online many times during their term."*
     #
