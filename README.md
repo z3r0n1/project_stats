@@ -10,12 +10,12 @@
     - Contiene el archivo .csv resultante de haber subido los datos del DataFrame a base de datos SQL en cierto punto del proyecto y haberlos extraído desde SQL a ruta local. 
 * ## ***img***:
     - Contiene la carpeta '*graphs*', que a su vez contiene '*html*' y '*png*'.  
-      Aquí se guardan los distintos gráficos que se han generado en la exploración y análisis de los datos.
+        Aquí se guardan los distintos gráficos que se han generado en la exploración y análisis de los datos.
     - Contiene '*other*'  
-      Hay otros recursos capturados con motivo de presentación de proyecto.
+        Hay otros recursos capturados con motivo de presentación de proyecto.
 * ## ***Monthly Economy Report***:
     - Contiene los archivos *.zip*, resultado de hacer scraping para obtener los datos necesarios para el análisis, y contiene la carpeta '*descomprimidos*' donde están los archivos descomprimidos.  
-      Ya que en este proyecto sólo se utiliza un archivo en concreto, esta carpeta tan sólo va a contener el *.zip* contenedor de ese archivo y el archivo en cuestión dentro de '*descomprimidos*'.
+        Ya que en este proyecto sólo se utiliza un archivo en concreto, esta carpeta tan sólo va a contener el *.zip* contenedor de ese archivo y el archivo en cuestión dentro de '*descomprimidos*'.
 * ## ***src***:
     - Contiene el archivo '*main.ipynb*' en el cuál se hace todo el proyecto, ya que no ha habido tiempo de modularización antes de la fecha de presentación.
 #
