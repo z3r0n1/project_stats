@@ -1,6 +1,6 @@
 # **PROYECTO**
 ## *ESTADÍSTICA SOBRE EL MERCADO DE 'EVE ONLINE' EN ÉPOCA DE CONFLICTO PVP*
-==
+  
   
 # **HIPÓTESIS**:
 ## *"The Massacre at M2-XFE (December 31, 2020)" tuvo un impacto directo en el mercado de EVE Online.*
@@ -37,7 +37,7 @@
     ![EVE CSM](https://images.ctfassets.net/7lhcm73ukv5p/66Jl9FGS9auYY2g04MAwIY/ebcfc70477dffdc954a20ed65ad4507e/csmelectionresults2.png)
   ## Es un grupo de 10 jugadores, elegidos democráticamente por la comunidad, que participa activamente en el continuo desarrollo de EVE Online teniendo comunicación directa con CCP.
     #
-    ## *"The role of a CSM member is to represent the players in the ongoing development of EVE Online by providing analysis, sharing suggestions, and giving feedback based on the ongoing community discussions and concerns to CCP. As an elected representative, a CSM member will have clear communication paths with CCP and a chance to influence the development of EVE Online many times during their term."*
+    > *"The role of a CSM member is to represent the players in the ongoing development of EVE Online by providing analysis, sharing suggestions, and giving feedback based on the ongoing community discussions and concerns to CCP. As an elected representative, a CSM member will have clear communication paths with CCP and a chance to influence the development of EVE Online many times during their term."*
     #
     ## *"The CSM will have regular online meetings with the Community Team and members of the EVE Online game development, access to selected internal sites, and a direct connection to various teams across the organization.*
 
