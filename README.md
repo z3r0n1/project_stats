@@ -1,11 +1,9 @@
 # **PROYECTO**
 ## *ESTADÍSTICA SOBRE EL MERCADO DE 'EVE ONLINE' EN ÉPOCA DE CONFLICTO PVP*  
-  
-  
+----
 # **HIPÓTESIS**:
 ## *"The Massacre at M2-XFE (December 31, 2020)" tuvo un impacto directo en el mercado de EVE Online.*  
-  
-  
+----
 # **ESTRUCTURA DEL REPOSITORIO:**
 * ## ***data***:
     - Contiene el archivo .csv resultante de haber subido los datos del DataFrame a base de datos SQL en cierto punto del proyecto y haberlos extraído desde SQL a ruta local. 
