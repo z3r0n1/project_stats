@@ -51,28 +51,28 @@
 
 * ## ***Alpha y Omega***
 ![EVE A&O](https://images.ctfassets.net/7lhcm73ukv5p/1FUcdhYN3DqYLEssXU72zH/1703a41784de1c3ef5509861f6399472/eve-academy-alpha-omega-card.jpg)
-    ## EVE Online es gratuito (F2P).
-    ## En el juego eres un clon inmortal ya que la humanidad ha evolucionado hasta la época de singularidad tecnológica y es capaz de traspasar su consciencia a otro cuerpo.
-    ## Si juegas gratis serás lo llamado "Clon Alpha" (Α), pero puedes comprar PLEX (moneda de pago) y convertirte en lo que llaman "Clon Omega" (Ω).
-    #
-    ## El PLEX puede ser comprado con dinero real o puede ser comprado con dinero del juego ISK.
-    #
-    ## Esta es la premisa sobre la cual se basa todo el cálculo de pérdidas en los conflictos PvP (Player vs Player) en EVE Online, ya que se puede calcular el coste de las pérdidas equivalente en dinero real.
-    #
+  ## EVE Online es gratuito (F2P).
+  ## En el juego eres un clon inmortal ya que la humanidad ha evolucionado hasta la época de singularidad tecnológica y es capaz de traspasar su consciencia a otro cuerpo.
+  ## Si juegas gratis serás lo llamado "Clon Alpha" (Α), pero puedes comprar PLEX (moneda de pago) y convertirte en lo que llaman "Clon Omega" (Ω).
+   #
+  ## El PLEX puede ser comprado con dinero real o puede ser comprado con dinero del juego ISK.
+   #
+  ## Esta es la premisa sobre la cual se basa todo el cálculo de pérdidas en los conflictos PvP (Player vs Player) en EVE Online, ya que se puede calcular el coste de las pérdidas equivalente en dinero real.
+   #
 
 * ## ***Volviendo a la hipótesis planteada:***
     ![EVE The Massacre at M2-XFE](https://images.ctfassets.net/7lhcm73ukv5p/1mB88TM2gOMjDkGFOMHDTn/781df650a82923c1476e42800425810b/EN_Screen_3840x2160.png?w=850&fm=jpg&fl=progressive&q=75)
-    ## https://www.eveonline.com/es/news/view/the-massacre-of-m2-xfe
-    ## "The Massacre at M2-XFE (December 31, 2020)"
-    #
-    ## Fue uno de los conflictos PvP más recientes en EVE Online.
-    ## Su precedente de similar escala fue "The Bloodbath of B-R5RB (January 27, 2014)", donde se registraron pérdidas por valor de $300,000 - $330,000.
-    ## Esta vez las pérdidas ascendieron a $378,012.
-    #
-    ## Hay que tener en cuenta que en el primer conflicto la batalla duró 21 horas, con un pico de jugadores de 2670, mientras que este conflicto tan sólo duró 14 horas, con un pico de jugadores de 5158.
-    #
-    ## Es por este motivo que me planteo si estos sucesos tienen un impacto directo en el mercado del juego.
-    #
+  ## https://www.eveonline.com/es/news/view/the-massacre-of-m2-xfe
+  ## "The Massacre at M2-XFE (December 31, 2020)"
+  #
+  ## Fue uno de los conflictos PvP más recientes en EVE Online.
+  ## Su precedente de similar escala fue "The Bloodbath of B-R5RB (January 27, 2014)", donde se registraron pérdidas por valor de $300,000 - $330,000.
+  ## Esta vez las pérdidas ascendieron a $378,012.
+  #
+  ## Hay que tener en cuenta que en el primer conflicto la batalla duró 21 horas, con un pico de jugadores de 2670, mientras que este conflicto tan sólo duró 14 horas, con un pico de jugadores de 5158.
+  #
+  ## Es por este motivo que me planteo si estos sucesos tienen un impacto directo en el mercado del juego.
+  #
 ![EVE The Massacre at M2-XFE Titans](https://live.staticflickr.com/65535/50783829256_2679000dae_k.jpg)
 ----
 #
