@@ -43,11 +43,9 @@
     > * Share knowledge by delivering insightful presentations on topics that can benefit the EVE Online game development.  
     > * Participate in content creation that can be used on EVE Online's channels.  
   
-    > Every member of the Council will have a chance to join remotely if t-hey are unable to attend, and every member can request summit sessions on specific topics. CCP will cover the cost of flights, accommodation, transfers within Iceland, and provide a complimentary allowance for basic food expenses for those attending CSM summits."
-    #
-    #
-    ## Más información: https://community.eveonline.com/community/csm/
-
+    > Every member of the Council will have a chance to join remotely if t-hey are unable to attend, and every member can request summit sessions on specific topics. CCP will cover the cost of flights, accommodation, transfers within Iceland, and provide a complimentary allowance for basic food expenses for those attending CSM summits."  
+    ## Más información: https://community.eveonline.com/community/csm/  
+  
 * ## ***Alpha y Omega***
 ![EVE A&O](https://images.ctfassets.net/7lhcm73ukv5p/1FUcdhYN3DqYLEssXU72zH/1703a41784de1c3ef5509861f6399472/eve-academy-alpha-omega-card.jpg)
   ## EVE Online es gratuito (F2P).
