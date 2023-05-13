@@ -21,15 +21,18 @@
 ---- 
 # 
 # **CONTEXTO:**
-![EVE Online](https://cdn1.epicgames.com/offer/de554cff12704db4a900032bbd194d7e/Eve-nov-update-wide_2560x1440-88d1b30e638dbadd242a41097974671f_2560x1440-88d1b30e638dbadd242a41097974671f)
+
 * ## ***EVE Online***
+![EVE Online](https://cdn1.epicgames.com/offer/de554cff12704db4a900032bbd194d7e/Eve-nov-update-wide_2560x1440-88d1b30e638dbadd242a41097974671f_2560x1440-88d1b30e638dbadd242a41097974671f)
     ## es un videouego **MMORPG** *'sandbox expacial'*, con 20 años de antigüedad actualmente, desarrollado por la empresa **CCP Games** (1997, Reykjavik, Islandia).
+
+* ## **CCP Games** celebra anualmente el evento ***EVE FANFEST***.
 ![EVE Fanfest](https://massivelyop.com/wp-content/uploads/2022/03/eve-online-stuffed-like-highly-transmissible-sardines.jpg)
 ![EVE Fanfest](https://images.ctfassets.net/7lhcm73ukv5p/1eOlQsSO80R5rZz6VtWDxk/85bae523d10630b049508513f8d07f62/fanfest2017_24_.jpg?w=1000)
-* ## **CCP Games** celebra anualmente el evento ***EVE FANFEST***.
     ## Si quieres tu entrada para 2023 (REYKJAVIK 21-23 SEPT) actualmente cuesta $190.00.
-![EVE CSM](https://images.ctfassets.net/7lhcm73ukv5p/66Jl9FGS9auYY2g04MAwIY/ebcfc70477dffdc954a20ed65ad4507e/csmelectionresults2.png)
+
 * ## ***THE COUNCIL OF STELLAR MANAGEMENT (CSM)***
+    ![EVE CSM](https://images.ctfassets.net/7lhcm73ukv5p/66Jl9FGS9auYY2g04MAwIY/ebcfc70477dffdc954a20ed65ad4507e/csmelectionresults2.png)
     ## Es un grupo de 10 jugadores, elegidos democráticamente por la comunidad, que participa activamente en el continuo desarrollo de EVE Online teniendo comunicación directa con CCP.
     #
     ## *"The role of a CSM member is to represent the players in the ongoing development of EVE Online by providing analysis, sharing suggestions, and giving feedback based on the ongoing community discussions and concerns to CCP. As an elected representative, a CSM member will have clear communication paths with CCP and a chance to influence the development of EVE Online many times during their term."*
@@ -45,8 +48,9 @@
     #
     #
     ## Más información: https://community.eveonline.com/community/csm/
-![EVE A&O](https://images.ctfassets.net/7lhcm73ukv5p/1FUcdhYN3DqYLEssXU72zH/1703a41784de1c3ef5509861f6399472/eve-academy-alpha-omega-card.jpg)
+
 * ## ***Alpha y Omega***
+![EVE A&O](https://images.ctfassets.net/7lhcm73ukv5p/1FUcdhYN3DqYLEssXU72zH/1703a41784de1c3ef5509861f6399472/eve-academy-alpha-omega-card.jpg)
     ## EVE Online es gratuito (F2P).
     ## En el juego eres un clon inmortal ya que la humanidad ha evolucionado hasta la época de singularidad tecnológica y es capaz de traspasar su consciencia a otro cuerpo.
     ## Si juegas gratis serás lo llamado "Clon Alpha" (Α), pero puedes comprar PLEX (moneda de pago) y convertirte en lo que llaman "Clon Omega" (Ω).
@@ -55,8 +59,9 @@
     #
     ## Esta es la premisa sobre la cual se basa todo el cálculo de pérdidas en los conflictos PvP (Player vs Player) en EVE Online, ya que se puede calcular el coste de las pérdidas equivalente en dinero real.
     #
-![EVE The Massacre at M2-XFE](https://images.ctfassets.net/7lhcm73ukv5p/1mB88TM2gOMjDkGFOMHDTn/781df650a82923c1476e42800425810b/EN_Screen_3840x2160.png?w=850&fm=jpg&fl=progressive&q=75)
+
 * ## ***Volviendo a la hipótesis planteada:***
+    ![EVE The Massacre at M2-XFE](https://images.ctfassets.net/7lhcm73ukv5p/1mB88TM2gOMjDkGFOMHDTn/781df650a82923c1476e42800425810b/EN_Screen_3840x2160.png?w=850&fm=jpg&fl=progressive&q=75)
     ## https://www.eveonline.com/es/news/view/the-massacre-of-m2-xfe
     ## "The Massacre at M2-XFE (December 31, 2020)"
     #
